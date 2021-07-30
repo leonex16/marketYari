@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --primary-color: #005662;
+  --secondary-color: '';
+  --background-color: #FFFFFF;
+  --border-radius: 10px;
+  --font-color: #606060;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.cards-container {
+  grid-column-start: span 10;
+
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.card-container {
+  grid-column-start: span 2;
+
+  display: flex;
+  flex-direction: column;
+
+  border-radius: var(--border-radius);
+  box-shadow:  4px 4px 15px #d9d9d950,
+             -4px -4px 15px #a7a2a250;
+  
+  padding: .5rem;
+
+}
+
+.card-container__img {
+  flex-grow: 1;
+  border-radius: var(--border-radius);
+  width: 100%;
+  margin-bottom: 1rem;
+  object-fit: cover;
+
+}
+
+.card-container__btn {
+  color: var(--font-color);
+  min-height: 150px;
+  padding: .5rem 1rem;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+  border-radius: var(--border-radius);
+  background: linear-gradient(145deg, #ffffff, #e6e6e6);
+  box-shadow:  2px 2px 5px #d9d9d980,
+             -2px -2px 5px #a7a2a280;
+
+  transition: background-image 1s;
+}
+
+.card-container__btn:hover {
+  background-image: linear-gradient(145deg, #ffffff, #d6d6d6);
+}
+
+.card-container__btn:active {
+  box-shadow: inset 2px 2px 10px #d9d9d930,
+              inset -2px -2px 10px #a7a2a230;
+}
+
+/* ========================================= */
+
+.aside-container{
+  position: relative;
+  grid-column-start: span 2;
+
+  padding: .25rem;
+  /* background-color: red; */
+
+}
+
+.form-container {
+  position: fixed;
+  width: min-content;
+}
+
+.form-container__fieldset{
+  color: var(--font-color);
+  border: 2px solid #60606020;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+  border-radius: var(--border-radius);
+  box-shadow:  4px 4px 15px #d9d9d950,
+             -4px -4px 15px #a7a2a250;
+
+  padding: .5rem;
+  min-width: calc(100% - 9rem);
+  max-width: calc(100% - 9rem);
+  border-radius: var(--border-radius);
+  height: calc(100vh - 2rem);
+}
+
+.form-container__legend{
+  padding-bottom: 2px;
+  
+}
+
+.form-control {
+}
+
+.form-control[data-textarea] {
+  flex-grow: 1;
+}
+
+.form-control > *{
+  color: var(--font-color);
+  min-width: calc(100% - 1rem);
+  max-width: calc(100% - 1rem);
+}
+
+.form-control__label {
+  font-size: 16px;
+  display: inline-block;
+  height: 2.5rem;
+  line-height: 2.8rem;
+}
+
+.form-control__input {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  padding: .25rem .5rem;
+  border-radius: var(--border-radius);
+
+  background: linear-gradient(145deg, #e6e6e680, #ffffff);
+  box-shadow:  2px 2px 10px #d9d9d9,
+              -2px -2px 10px #ffffff;
+}
+
+.form-control__input::placeholder {
+  color: #60606060;
+}
+
+.form-control__textarea {
+  font-size: 16px;
+  resize: none;
+  border: none;
+  outline: none;
+  padding: .25rem .5rem;
+  border-radius: var(--border-radius);
+  height: calc(100% - 4rem);
+
+  background: linear-gradient(145deg, #e6e6e680, #ffffff);
+  box-shadow:  2px 2px 10px #d9d9d9,
+              -2px -2px 10px #ffffff;
+}
+
+.form-control__textarea::placeholder {
+  color: #60606060;
+}
+
+.form-control__button {
+  padding: 1rem .5rem;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+  border-radius: var(--border-radius);
+  background: linear-gradient(145deg, #ffffff, #e6e6e6);
+  box-shadow:  2px 2px 10px #d9d9d9,
+             -2px -2px 10px #a7a2a2;
+}
+
+.form-control__button:hover {
+  background-image: linear-gradient(145deg, #ffffff, #d6d6d6);
+}
+
+.form-control__button:active {
+  box-shadow: inset 2px 2px 10px #d9d9d930,
+              inset -2px -2px 10px #a7a2a230;
+}
