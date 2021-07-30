@@ -1,0 +1,189 @@
+{
+  "products": [
+    {
+      "id": "5FECEB66FFC86F38D952786C6D696C79C2DBC239DD4E91B46729D73A27FB57E9",
+      "name": "Cerveza | Corona | Pack 6 uni. | Botella | 330 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/356623-750-750/Cerveza-corona-botella-6x330cc-2-207959841.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Corona-Cerveza-Lager-Botellin/993393",
+        "https://www.jumbo.cl/cerveza-corona-botella-6x330cc-2/p",
+        "https://www.santaisabel.cl/pack-6-un-cerveza-rubia-botella-330-cc-1850069-pak/p",
+        "https://www.tottus.cl/corona-pack-cerveza-corona-330-cc-6-und-20457728/p/"
+      ]
+    },
+    {
+      "id": "6B86B273FF34FCE19D6B804EFF5A3F5747ADA4EAA22F1D49C01E52DDB7875B4B",
+      "name": "Cerveza | Stella Artois | Pack 6 uni. | Botella | 330 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/398769-750-750/Pack-cerveza-botella-6-un-330-cc-c-u.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Stella-Artois-Cerveza-Lager-Botellin/307501",
+        "https://www.jumbo.cl/pack-cerveza-stella-artois-6-unid-330-cc-c-u/p",
+        "https://www.santaisabel.cl/pack-cerveza-stella-artois-6-unid-330-cc-c-u/p",
+        "https://www.tottus.cl/stella-artois-cerveza-nacional-20035242/p/"
+
+      ]
+    },
+    {
+      "id": "D4735E3A265E16EEE03F59718B9B5D03019C07D8B6C51F90DA3A666EEC13AB35",
+      "name": "Cerveza | Heineken | Pack 6 uni. | Lata | 350 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/398775-750-750/Pack-cerveza-6-un-350-cc-c-u.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Heineken-Pack-Cervezas-Premium-Lager-6-Latas/937361",
+        "https://www.jumbo.cl/pack-cerveza-heineken-6-unid-350-cc-c-u/p",
+        "https://www.santaisabel.cl/pack-cerveza-heineken-6-unid-350-cc-c-u/p",
+        "https://www.tottus.cl/heineken-cerveza-nacional-01018988/p/"
+      ]
+    },
+    {
+      "id": "4E07408562BEDB8B60CE05C1DECFE3AD16B72230967DE01F640B7E4729B49FCE",
+      "name": "Cerveza | Budweiser | Pack 6 uni. | Botella | 355 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/398763-750-750/Pack-cerveza-botella-6-un-355-cc-c-u.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Budweiser-Cerveza-Lager-Botellin/304209",
+        "https://www.jumbo.cl/pack-cerveza-budweiser-6-unid-355-cc-c-u/p",
+        "https://www.santaisabel.cl/pack-cerveza-budweiser-6-unid-355-cc-c-u/p",
+        "https://www.tottus.cl/budweiser-cerveza-importada-long-neck-01018670/p/"
+      ]
+    },
+    {
+      "id": "4B227777D4DD1FC61C6F884F48641D02B4D121D3FD328CB08B5531FCACDABF8A",
+      "name": "Cóctel | Campanario | Mango Sour | 700 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/397773-750-750/Coctel-mango-sour-12°-700-cc.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Campanario-Pisco-Sour-Mango-Botella/1349",
+        "https://www.jumbo.cl/coctel-campanario-botella-700-cc-mango-sour-12gl-2/p",
+        "https://www.santaisabel.cl/coctel-campanario-botella-700-cc-mango-sour-12gl-2/p",
+        "https://www.tottus.cl/campanario-coctel-mango-light-20033400/p/"
+      ]
+    },
+    {
+      "id": "EF2D127DE37B942BAAD06145E54B0C619A1F22327B2EBBCFBEC78F5564AFE39D",
+      "name": "Cóctel | Campanario | Pisco Sour | 700 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/397775-750-750/Pisco-sour-18°-700-cc.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Campanario-Pisco-Sour-Botella/1343",
+        "https://www.jumbo.cl/pisco-sour-campanario-700-cc-18-gl-2/p",
+        "https://www.santaisabel.cl/pisco-sour-campanario-700-cc-18-gl-2/p",
+        "https://www.tottus.cl/campanario-pisco-sour-01016276/p/"
+      ]
+    },
+    {
+      "id": "E7F6C011776E8DB7CD330B54174FD76F7D0216B612387A5FFCFB81E6F0919683",
+      "name": "Cóctel | Campanario | Pisco Sour con limón de pica | 700 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/319766-750-750/Principal-2857.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Campanario-Pisco-Sour-Pica-Botella/286117",
+        "https://www.jumbo.cl/pisco-sour-campanario-botella-700-cc-limon-de-pica-15-gl-con-jugo-de-limon-de-pica-2/p",
+        "https://www.santaisabel.cl/pisco-sour-campanario-botella-700-cc-limon-de-pica-15-gl-con-jugo-de-limon-de-pica-622507/p",
+        "https://www.tottus.cl/campanario-pisco-sour-pica-15-02100076/p/"
+      ]
+    },
+    {
+      "id": "7902699BE42C8A8E46FBBB4501726517E86B22C56A189F7625A6DA49081B2451",
+      "name": "Cóctel | Campanario | Maracuyá Sour | 700 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/319789-750-750/Principal-41465.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Campanario-C%C3%B3ctel-de-Pisco-Maracuy%C3%A1/867044",
+        "https://www.jumbo.cl/coctel-campanario-maracuya-700-cc/p",
+        "https://www.santaisabel.cl/coctel-campanario-maracuya-700-cc-1700660/p",
+        "https://www.tottus.cl/campanario-pisco--sour-maracuya-12-20348847/p/"
+      ]
+    },
+    {
+      "id": "2C624232CDD221771294DFBB310ACA000A0DF6AC8B66B696D90EF06FDEFB64A3",
+      "name": "Cóctel | Campanario | Pisco Sour | 1 lt",
+      "thumbnail": "https://images.lider.cl/wmtcl?source=url%5Bfile:/productos/514756a.jpg%5D&viewport=color%5Bwhite%5D,height%5B1000%5D,seed%5B1625804332%5D,vsize%5B635%5D,width%5B1000%5D,x%5B0%5D,y%5B0%5D&sink",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Campanario-Pisco-Sour-18-Botella/514756",
+        "https://www.jumbo.cl/pisco-sour-campanario-botella-1-l/p",
+        "https://www.santaisabel.cl/pisco-sour-campanario-botella-1-l-1363595/p",
+        "https://www.tottus.cl/campanario-pisco-sour-20199225/p/"
+      ]
+    },
+    {
+      "id": "19581E27DE7CED00FF1CE50B2047E7A567C76B1CBAEBABE5EF03F7C3017BB5B7",
+      "name": "Cóctel | Campanario | Mango Sour | 1 lt",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/322438-750-750/Principal-2865.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Campanario-C%C3%B3ctel-de-Mango-Botella/630130",
+        "https://www.jumbo.cl/coctel-campanario-1-l-mango-12gl/p",
+        "https://www.santaisabel.cl/coctel-campanario-1-l-mango-12-gl-1028244/p",
+        "https://www.tottus.cl/campanario-coctel-mango-20155483/p/"
+      ]
+    },
+    {
+      "id": "4A44DC15364204A80FE80E9039455CC1608281820FE2B24F1E5233ADE6AF1DD5",
+      "name": "Cóctel | Secreto Peruano | Mango Sour | 1 lt",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/338379-750-750/Coctel-Sour-Mango-Secreto-Peruano-12°1000-cc-1-474695.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Secreto-Peruano-C%C3%B3ctel-Sour-Mango/889781",
+        "https://www.jumbo.cl/c-ctel-secreto-peruano-mango-12-1000-cc/p",
+        "https://www.tottus.cl/secreto-peruano-coctel-mango-12-20369956/p/"
+      ]
+    },
+    {
+      "id": "4A44DC15364204A80FE80E9039455CC1608281820FE2B24F1E5233ADE6AF1DD5",
+      "name": "Cóctel | Secreto Peruano | Pisco Sour | 1 lt",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/398617-750-750/Coctel-Sour-Secreto-Peruano-limon-1-L.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Secreto-Peruano-C%C3%B3ctel-Sour-Lim%C3%B3n/889779",
+        "https://www.jumbo.cl/coctel-sour-secreto-peruano-limon-1000-cc/p",
+        "https://www.tottus.cl/secreto-peruano-pisco-sour-limon-15-20348867/p/"
+      ]
+    },
+    {
+      "id": "6B51D431DF5D7F141CBECECCF79EDF3DD861C3B4069F0B11661A3EEFACBBA918",
+      "name": "Cerveza | Budweiser | Pack 6 uni. | Lata | 354 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/398764-750-750/Pack-cerveza-lata-6-un-355-cc-c-u.jpg",
+      "links": [
+        "https://www.jumbo.cl/pack-cerveza-budweiser-lata-6-unid-355-cc-c-u/p",
+        "https://www.santaisabel.cl/pack-cerveza-budweiser-lata-6-unid-355-cc-c-u/p",
+        "https://www.tottus.cl/budweiser-cerveza-sixpack-20308203/p/"  
+      ]
+    },
+    {
+      "id": "3FDBA35F04DC8C462986C992BCF875546257113072A909C162F7E470E581E278",
+      "name": "Cóctel | Secreto Peruano | Pisco Sour | 700 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/338314-750-750/Principal-2845.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Secreto-Peruano-C%C3%B3ctel-Lim%C3%B3n-Sour-Botella/801164",
+        "https://www.jumbo.cl/pisco-sour-secreto-peruano-700-ml-limon-sutil-17/p",
+        "https://www.santaisabel.cl/coctel-sour-secreto-peruano-limon-700-cc-1626112/p",
+        "https://www.tottus.cl/secreto-peruano-secreto-peruano-sour-limon-20297327/p/"
+      ]
+    },
+    {
+      "id": "8527A891E224136950FF32CA212B45BC93F69FBB801C3B1EBEDAC52775F99E61",
+      "name": "Cóctel | Secreto Peruano | Maracuyá Sour | 700 cc",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/338315-750-750/Principal-2844.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Secreto-Peruano-C%C3%B3ctel-Maracuy%C3%A1-Sour-Botella/801166",
+        "https://www.jumbo.cl/pisco-sour-secreto-peruano-700-ml-maracuya-12/p",
+        "https://www.santaisabel.cl/coctel-sour-secreto-peruano-maracuya-700-cc-1626113/p",
+        "https://www.tottus.cl/secreto-peruano-secreto-peruano-sour-maracuya-20297328/p/"
+      ]
+    },
+    {
+      "id": "E629FA6598D732768F7C726B4B621285F9C3B85303900AA912017DB7617D8BDB",
+      "name": "Bebida | Coca-Cola y Sprite | Pack 3 uni. | 3 lt c/u",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/422094-750-750/Pack-Coca---Cola---Sprite-3-unidades-3-L-c-u.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Coca-Cola-Tripack-Original-Sprite-Botella/299643",
+        "https://www.jumbo.cl/bebida-coca-cola-sprite-pack-3-unid-3-l-cu-botella-desechable/p",
+        "https://www.santaisabel.cl/bebida-coca-cola-sprite-pack-3-unid-3-l-cu-botella-desechable/p",
+        "https://www.tottus.cl/sprite-bebida-desechable-2-coca-cola--sprite-02300121/p/"
+      ]
+    },
+    {
+      "id": "B17EF6D19C7A5B1EE83B907C595526DCB1EB06DB8227D650D5DDA0A9F4CE8CD9",
+      "name": "Bebida | Coca-Cola y Fanta | Pack 3 uni. | 3 lt c/u",
+      "thumbnail": "https://jumbo.vteximg.com.br/arquivos/ids/422093-750-750/Pack-Coca---Cola---Fanta-3-unidades-3-L-c-u.jpg",
+      "links": [
+        "https://www.lider.cl/supermercado/product/Coca-Cola-Tripack-Original-Fanta-naranja-Botella/299457",
+        "https://www.jumbo.cl/bebida-coca-cola-fanta-pack-3-unid-3-l-cu-botella-desechable/p",
+        "https://www.santaisabel.cl/bebida-coca-cola-fanta-pack-3-unid-3-l-cu-botella-desechable/p",
+        "https://www.tottus.cl/fanta-bebida-desechable-2-coca-cola--fanta-01029181/p/"
+      ]
+    }
+  ]
+}

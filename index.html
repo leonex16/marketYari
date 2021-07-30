@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Donde la tia Yari</title>
+  <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+  <main class="main-container">
+    <article class="cards-container"></article>
+    <aside class="aside-container">
+      <form method="POST" action="https://formspree.io/f/mknkqjbj" class="form-container">
+        <fieldset class="form-container__fieldset">
+          <legend class="form-container__legend">Agregar Productos:</legend>
+          <div class="form-control">
+            <label for="name" class="form-control__label">Nombre del Producto</label>
+            <input id="name" name="name" type="text" placeholder="Categ | Marca | Cant" class="form-control__input">
+          </div>
+          <div class="form-control">
+            <label for="thumbnail" class="form-control__label">Url Imagen</label>
+            <input id="thumbnail" name="thumbnail" type="text" placeholder="Es opcional :)" class="form-control__input">
+          </div>
+          <div class="form-control" data-textarea>
+            <label for="links" class="form-control__label">Urls Productos</label>
+            <textarea name="links" id="links" class="form-control__textarea" placeholder="Cada enlace debe estar separado por una coma ','"></textarea>
+          </div>
+          <div class="form-control">
+            <button class="form-control__button">Crear Producto</button>
+          </div>
+        </fieldset>
+      </form>
+    </aside>
+  </main>
+
+  <template id="card-template">
+    <section class="card-container">
+      <img class="card-container__img" src="" alt="">
+      <button class="card-container__btn" type="button"></button>
+    </section>
+  </template>
+  <script src='./utils/getDataLocal.js'></script>
+  <script src='./utils/injectCardsOnTheDom.js'></script>
+  <script src='./utils/openManyLink.js'></script>
+  <script src='./utils/onSubmit.js'></script>
+  <script src='./utils/excludeToValidate.js'></script>
+  <script src='./utils/validatorInput.js'></script>
+  <script src='./utils/validatorForm.js'></script>
+  <script src="./index.js"></script>
+</body>
+
+</html>
