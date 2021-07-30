@@ -5,6 +5,17 @@ interface ProductJson {
   links: Array<string>
 };
 
+// ValidatorForm
+interface ValidatorFormIn {
+  inputName: string,
+  inputType: string,
+  inputValue: string
+}
+
+interface ValidatorFormOut extends ValidatorFormIn{
+  isValid: boolean
+}
+
 // Lider & Tottus
 interface JldGeneric {
   "@context":  string;
