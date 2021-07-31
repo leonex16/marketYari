@@ -111,8 +111,6 @@ body {
              -4px -4px 15px #a7a2a250;
 
   padding: .5rem;
-  min-width: calc(100% - 9rem);
-  max-width: calc(100% - 9rem);
   border-radius: var(--border-radius);
   height: calc(100vh - 2rem);
 }
@@ -123,6 +121,7 @@ body {
 }
 
 .form-control {
+  width: 86%;
 }
 
 .form-control[data-textarea] {
